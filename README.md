@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="720" src="study.jpeg" alt="Sharath studying AI">
+<img width="300" src="study.jpeg" alt="Sharath studying AI">
 
 </div>
 
