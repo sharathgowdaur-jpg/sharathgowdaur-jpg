@@ -14,11 +14,9 @@
 
 ---
 
-<div align="center">
-
-<img width="720" src="https://media4.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
-
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-computer.gif" width="500">
+</p>
 
 ---
 
