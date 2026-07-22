@@ -59,7 +59,7 @@ Currently exploring **Machine Learning**, **Deep Learning**, **Computer Vision**
     <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://YOUR_PORTFOLIO" target="_blank">
+  <a href="https://github.com/sharathgowdaur-jpg" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
