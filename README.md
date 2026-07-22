@@ -51,11 +51,11 @@ Currently exploring **Machine Learning**, **Deep Learning**, **Computer Vision**
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/sharath-u-r" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/sharath_u_r/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/F89F1B" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,7 @@ Currently exploring **Machine Learning**, **Deep Learning**, **Computer Vision**
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="sharathgowdaur@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
