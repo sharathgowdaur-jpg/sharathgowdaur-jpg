@@ -14,11 +14,11 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="450" src="study.jpeg" alt="Sharath studying AI">
 
-</div>
+</div> -->
 
 ---
 
