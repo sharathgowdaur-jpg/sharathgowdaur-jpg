@@ -1,5 +1,5 @@
 <!--
-  SHARATH GOWDA UR — GitHub Profile README
+  SHARATH U R — GitHub Profile README
 
 COLOR SYSTEM
   Ocean Blue  : #A371F7 / #1F6FEB
@@ -17,7 +17,7 @@ COLOR SYSTEM
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1B1B,30:0077FF,60:00D4FF,100:14F195&text=SHARATH%20GOWDA%20UR&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Artificial%20Intelligence%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software%20Engineering&descSize=17&descAlignY=56"
-    alt="Sharath Gowda UR — AI · ML · Software Engineering"
+    alt="Sharath U R — AI · ML · Software Engineering"
     width="100%"
   />
 
