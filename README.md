@@ -160,37 +160,78 @@ Daily Python solutions covering **data structures, algorithms, problem-solving p
 <img src="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </picture>
 
+<!-- ========================= -->
+<!-- CONNECT -->
+<!-- ========================= -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:A371F7,100:0D1117&height=44&section=header&text=%2F%2F%20CONNECT&fontSize=22&fontColor=FFFFFF&fontAlignY=58"
+    alt="// CONNECT"
+    width="100%"
+  />
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:A371F7,100:0D1117&height=44&section=header&text=%2F%2F%20CONNECT&fontSize=22&fontColor=FFFFFF&fontAlignY=58" alt="// CONNECT" width="100%"/>
+
+  <a href="https://www.linkedin.com/in/sharath-u-r" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin&theme=dark"
+      height="52"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/sharathgowdaur-jpg" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github&theme=dark"
+      height="52"
+      alt="GitHub"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:sharathgowdaur@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail&theme=dark"
+      height="52"
+      alt="Gmail"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/sharath_u_r" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/leetcode/A371F7"
+      height="52"
+      alt="LeetCode"
+    />
+  </a>
+
 </div>
+
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sharath-u-r" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="52" alt="LinkedIn"/>
-</a>
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-A371F7?style=for-the-badge&labelColor=0D1117"
+    alt="Portfolio coming soon"
+  />
 
-&nbsp;&nbsp;&nbsp;
+  <br/><br/>
 
-<a href="https://github.com/sharathgowdaur-jpg" target="_blank">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub"/>
-</a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=A371F7&center=true&vCenter=true&width=800&height=45&lines=Build+something+useful.;Keep+learning.+Keep+shipping.;Open+to+internships%2C+collaborations%2C+and+hard+problems."
+    alt="Closing message"
+  />
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sharathgowdaur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="52" alt="Email"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/sharath_u_r" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="52" alt="LeetCode"/>
-</a>
+</div>
 
 <br/><br/>
 
