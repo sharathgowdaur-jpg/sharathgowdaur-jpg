@@ -1,11 +1,12 @@
 <!--
   SHARATH GOWDA UR — GitHub Profile README
 
-  COLOR SYSTEM
-  Cyber Blue  : #00D4FF / #0077FF
-  Teal Ocean  : #14F195 / #0EA5A4
-  Red Matrix  : #FF3B3B / #B91C1C
-  Background  : #0B1B1B
+COLOR SYSTEM
+  Ocean Blue  : #58A6FF / #1F6FEB
+  Background  : #0D1117
+  Primary     : #58A6FF
+  Secondary   : #1F6FEB
+  Accent      : #79C0FF
 -->
 
 <div align="center">
@@ -413,51 +414,6 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
 
 <br/>
 
-<!-- ========================= -->
-<!-- CONTRIBUTION STATS -->
-<!-- ========================= -->
-
-<div align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1B1B,45:FF3B3B,100:0B1B1B&height=44&section=header&text=%2F%2F%20ACTIVITY&fontSize=22&fontColor=FFFFFF&fontAlignY=58"
-    alt="// ACTIVITY"
-    width="100%"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=sharathgowdaur-jpg&background=0B1B1B&border=0077FF&stroke=0077FF&ring=FF3B3B&fire=FF3B3B&currStreakNum=00D4FF&sideNums=14F195&currStreakLabel=00D4FF&sideLabels=14F195&dates=0077FF&border_radius=10"
-    height="190"
-    alt="Contribution streak"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub><b>CONTRIBUTION HEATMAP</b></sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://ghchart.rshah.org/00D4FF/sharathgowdaur-jpg"
-    alt="Sharath's contribution heatmap"
-    width="98%"
-  />
-
-</div>
-
-<br/>
 
 <!-- ========================= -->
 <!-- CONTRIBUTION SNAKE -->
@@ -585,5 +541,6 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
   src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:14F195,45:00D4FF,100:0B1B1B"
   alt=""
   width="100%"
-/>#   s h a r a t h g o w d a u r - j p g  
+/>#   s h a r a t h g o w d a u r - j p g 
+ 
  
