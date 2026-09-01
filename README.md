@@ -231,16 +231,5 @@ Daily Python solutions covering **data structures, algorithms, problem-solving p
     alt="Closing message"
   />
 
-</div>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-A371F7?style=for-the-badge&labelColor=0D1117" alt="Portfolio coming soon"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=A371F7&center=true&vCenter=true&width=800&height=45&lines=Build+something+useful.;Keep+learning.+Keep+shipping.;Open+to+internships%2C+collaborations%2C+and+hard+problems." alt="Closing message"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:A371F7,45:1F6FEB,100:0D1117" alt="" width="100%"/>
