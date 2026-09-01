@@ -5,8 +5,8 @@ COLOR SYSTEM
   Ocean Blue  : #58A6FF / #1F6FEB
   Background  : #0D1117
   Primary     : #58A6FF
-  Secondary   : #1F6FEB
-  Accent      : #79C0FF
+  Secondary   : #2EA043
+  Accent      : #56D4DD
 -->
 
 <div align="center">
