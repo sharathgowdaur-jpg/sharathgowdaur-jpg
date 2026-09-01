@@ -421,32 +421,20 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1B1B,45:14F195,100:0B1B1B&height=44&section=header&text=%2F%2F%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=0B1B1B&fontAlignY=58"
-    alt="// CONTRIBUTION SNAKE"
-    width="100%"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/github-snake-dark.svg"
     />
 
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/snake.svg"
+      srcset="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/github-snake.svg"
     />
 
     <img
-      src="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/snake.svg"
-      alt="Snake eating my contribution graph"
+      src="https://raw.githubusercontent.com/sharathgowdaur-jpg/sharathgowdaur-jpg/output/github-snake.svg"
+      alt="GitHub contribution snake"
       width="100%"
     />
   </picture>
@@ -474,7 +462,7 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/sharath-u-r" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin&theme=dark"
       height="52"
@@ -496,7 +484,7 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
   &nbsp;&nbsp;&nbsp;
 
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sharathgowdaur@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail&theme=dark"
       height="52"
@@ -507,7 +495,7 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
   &nbsp;&nbsp;&nbsp;
 
   <!-- LeetCode -->
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/sharath_u_r" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=leetcode&theme=dark"
       height="52"
@@ -515,7 +503,6 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
     />
   </a>
 
-  <br/><br/>
 
   <img
     src="https://img.shields.io/badge/PORTFOLIO-COMING_SOON-FF3B3B?style=for-the-badge&labelColor=0B1B1B"
@@ -541,6 +528,4 @@ Daily Python solutions covering <b>data structures, algorithms, problem-solving 
   src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:14F195,45:00D4FF,100:0B1B1B"
   alt=""
   width="100%"
-/>#   s h a r a t h g o w d a u r - j p g 
- 
- 
+/>#
