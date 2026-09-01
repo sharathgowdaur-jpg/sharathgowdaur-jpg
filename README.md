@@ -2,11 +2,11 @@
   SHARATH GOWDA UR — GitHub Profile README
 
 COLOR SYSTEM
-  Ocean Blue  : #58A6FF / #1F6FEB
+  Ocean Blue  : #A371F7 / #1F6FEB
   Background  : #0D1117
-  Primary     : #58A6FF
-  Secondary   : #2EA043
-  Accent      : #56D4DD
+  Primary     : #8B949E
+  Secondary   : #6E7681
+  Accent      : #A371F7
 -->
 
 <div align="center">
